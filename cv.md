@@ -3,6 +3,7 @@
 3.  Trying to become frontend developer. Didn't have experience in this sphere before. Learning as fast as I can.
 4.  A bit of HTML, CSS, JavaScript and C#.
 5.  Training project in C#:
+        
         using System;
         using System.Collections.Generic;
         using System.ComponentModel;
